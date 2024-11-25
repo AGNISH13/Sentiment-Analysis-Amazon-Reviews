@@ -1,4 +1,4 @@
-# Sentiment Analysis of Amazon Fine Food Reviews"
+# Sentiment Analysis of Amazon Fine Food Reviews
 
 ## Project Description
 This is a python-based project predicting the `Sentiment` of `Customer Reviews`. The Sentiment Analysis has been done using two approaches:
